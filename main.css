@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+#art1{
+    border: 2px solid blue;
+    width: 120px;
+    margin: 20px;
+    overflow-wrap: break-word;
+    padding: 2px;
+}
+
+#art2{
+    border: 2px solid red;
+    width: 120px;
+    margin: 20px; 
+    overflow-wrap: break-word;
+    padding: 2px;
+}
